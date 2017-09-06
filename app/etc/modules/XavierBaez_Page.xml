@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <XavierBaez_Page>
+            <active>true</active>
+            <codePool>local</codePool>
+        </XavierBaez_Page>
+    </modules>
+</config>
